@@ -1,0 +1,4 @@
+#Wed Dec 06 08:53:09 GMT+03:00 2017
+base.0=C\:\\Users\\Frizer\\Documents\\QT_Projects\\Project_JP\\android-build\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\Frizer\\Documents\\QT_Projects\\Project_JP\\android-build\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
